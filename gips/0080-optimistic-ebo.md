@@ -144,12 +144,6 @@ There are other possible sources of truth for the protocol to verify the timesta
 > Using an Arbitrator (a Council of qualified individuals selected by the governance) is the simplest way to launch the system at this early stage and manage all the chains with a single resolution mechanism. This approach allows for greater decentralization in the future, as the source of truth can be easily migrated.
 > 
 
-<aside>
-
-Using an Arbitrator (a Council of qualified individuals selected by the governance) is the simplest way to launch the system at this early stage and manage all the chains with a single resolution mechanism. This approach allows for greater decentralization in the future, as the source of truth can be easily migrated.
-
-</aside>
-
 **Some considerations**:
 
 - Implementing multiple resolution systems by chain or type (rollups, L1s, etc) adds complexity.
